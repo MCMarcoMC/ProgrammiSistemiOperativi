@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/marcocerci/Desktop/ProgrammiC_SO/prof/6_thread_e_sincronizzazione/6.1_threads'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _print_hello_world, symObjAddr: 0x0, symBinAddr: 0x100003C84, symSize: 0x50 }
+  - { offsetInCU: 0x42, offset: 0x42, size: 0x8, addend: 0x0, symName: _print_hello_world, symObjAddr: 0x0, symBinAddr: 0x100003C84, symSize: 0x50 }
+  - { offsetInCU: 0x78, offset: 0x78, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x50, symBinAddr: 0x100003CD4, symSize: 0x1B8 }
+...
